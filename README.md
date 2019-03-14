@@ -16,7 +16,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Exercises:
 
-- [x] JavaScript Drum Kit
+- [x] JavaScript Drum Kit `13/03/2019`
 - [ ] JS and CSS Clock
 - [ ] CSS Variables
 - [ ] Array Cardio Day 1
