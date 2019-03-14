@@ -10,7 +10,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 - [Link](https://courses.wesbos.com/account)
 
-- [Course Dashboard](https://courses.wesbos.com/account/access/5c89826685f96c03c1e3972e/view/194130650)
+- [Course Videos](https://courses.wesbos.com/account/access/5c89826685f96c03c1e3972e/view/194130650)
 
 - [Course GitHub](https://github.com/wesbos/JavaScript30)
 
