@@ -19,7 +19,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] JavaScript Drum Kit `13/03/2019`
 - [x] JS and CSS Clock `14/03/2019`
 - [x] CSS Variables `15/03/2019`
-- [ ] Array Cardio Day 1
+- [x] Array Cardio Day 1 `16/03/2019`
 - [ ] Flex Panel Gallery
 - [ ] Type Ahead
 - [ ] Array Cardio Day 2
