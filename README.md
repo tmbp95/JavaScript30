@@ -20,7 +20,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] JS and CSS Clock `14/03/2019`
 - [x] CSS Variables `15/03/2019`
 - [x] Array Cardio Day 1 `16/03/2019`
-- [ ] Flex Panel Gallery
+- [x] Flex Panel Gallery `17/03/2019`
 - [ ] Type Ahead
 - [ ] Array Cardio Day 2
 - [ ] Fun with HTML5 Canvas
