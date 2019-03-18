@@ -21,7 +21,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 03 CSS Variables `15/03/2019`
 - [x] 04 Array Cardio Day 1 `16/03/2019`
 - [x] 05 Flex Panel Gallery `17/03/2019`
-- [ ] 06 Type Ahead
+- [x] 06 Type Ahead `18/03/2019`
 - [ ] 07 Array Cardio Day 2
 - [ ] 08 Fun with HTML5 Canvas
 - [ ] 09 Dev Tools Domination
