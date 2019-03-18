@@ -16,33 +16,33 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 ## Exercises:
 
-- [x] JavaScript Drum Kit `13/03/2019`
-- [x] JS and CSS Clock `14/03/2019`
-- [x] CSS Variables `15/03/2019`
-- [x] Array Cardio Day 1 `16/03/2019`
-- [x] Flex Panel Gallery `17/03/2019`
-- [ ] Type Ahead
-- [ ] Array Cardio Day 2
-- [ ] Fun with HTML5 Canvas
-- [ ] Dev Tools Domination
-- [ ] Hold Shift and Check Checkboxes
-- [ ] Custom Video Player
-- [ ] Key Sequence Detection
-- [ ] Slide in on Scroll
-- [ ] JavaScript References VS Copying
-- [ ] LocalStorage
-- [ ] Mouse Move Shadow
-- [ ] Sort Without Articles
-- [ ] Adding Up Times with Reduce
-- [ ] Webcam Fun
-- [ ] Speech Detection
-- [ ] Geolocation
-- [ ] Follow Along Link Highlighter
-- [ ] Speech Synthesis
-- [ ] Sticky Nav
-- [ ] Event Capture, Propagation, Bubbling and Once
-- [ ] Stripe Follow Along Nav
-- [ ] Click and Drag
-- [ ] Video Speed Controller
-- [ ] Countdown Timer
-- [ ] Whack A Mole
+- [x] 01 JavaScript Drum Kit `13/03/2019`
+- [x] 02 JS and CSS Clock `14/03/2019`
+- [x] 03 CSS Variables `15/03/2019`
+- [x] 04 Array Cardio Day 1 `16/03/2019`
+- [x] 05 Flex Panel Gallery `17/03/2019`
+- [ ] 06 Type Ahead
+- [ ] 07 Array Cardio Day 2
+- [ ] 08 Fun with HTML5 Canvas
+- [ ] 09 Dev Tools Domination
+- [ ] 10 Hold Shift and Check Checkboxes
+- [ ] 11 Custom Video Player
+- [ ] 12 Key Sequence Detection
+- [ ] 13 Slide in on Scroll
+- [ ] 14 JavaScript References VS Copying
+- [ ] 15 LocalStorage
+- [ ] 16 Mouse Move Shadow
+- [ ] 17 Sort Without Articles
+- [ ] 18 Adding Up Times with Reduce
+- [ ] 19 Webcam Fun
+- [ ] 20 Speech Detection
+- [ ] 21 Geolocation
+- [ ] 22 Follow Along Link Highlighter
+- [ ] 23 Speech Synthesis
+- [ ] 24 Sticky Nav
+- [ ] 25 Event Capture, Propagation, Bubbling and Once
+- [ ] 26 Stripe Follow Along Nav
+- [ ] 27 Click and Drag
+- [ ] 28 Video Speed Controller
+- [ ] 29 Countdown Timer
+- [ ] 30 Whack A Mole
