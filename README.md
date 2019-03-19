@@ -22,7 +22,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 04 Array Cardio Day 1 `16/03/2019`
 - [x] 05 Flex Panel Gallery `17/03/2019`
 - [x] 06 Type Ahead `18/03/2019`
-- [ ] 07 Array Cardio Day 2
+- [x] 07 Array Cardio Day 2 `19/03/2019`
 - [ ] 08 Fun with HTML5 Canvas
 - [ ] 09 Dev Tools Domination
 - [ ] 10 Hold Shift and Check Checkboxes
