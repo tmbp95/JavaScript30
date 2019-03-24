@@ -27,7 +27,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 09 Dev Tools Domination `21/03/2019`
 - [x] 10 Hold Shift and Check Checkboxes `22/03/2019`
 - [x] 11 Custom Video Player `23/03/2019`
-- [ ] 12 Key Sequence Detection
+- [x] 12 Key Sequence Detection `24/03/2019`
 - [ ] 13 Slide in on Scroll
 - [ ] 14 JavaScript References VS Copying
 - [ ] 15 LocalStorage
