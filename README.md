@@ -29,7 +29,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 11 Custom Video Player `23/03/2019`
 - [x] 12 Key Sequence Detection `24/03/2019`
 - [x] 13 Slide in on Scroll `25/03/2019`
-- [ ] 14 JavaScript References VS Copying
+- [x] 14 JavaScript References VS Copying `26/03/2019`
 - [ ] 15 LocalStorage
 - [ ] 16 Mouse Move Shadow
 - [ ] 17 Sort Without Articles
