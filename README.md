@@ -33,7 +33,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 15 LocalStorage `27/03/2019`
 - [x] 16 Mouse Move Shadow `28/03/2019`
 - [x] 17 Sort Without Articles `29/03/2019`
-- [ ] 18 Adding Up Times with Reduce
+- [x] 18 Adding Up Times with Reduce `30/03/2019`
 - [ ] 19 Webcam Fun
 - [ ] 20 Speech Detection
 - [ ] 21 Geolocation
