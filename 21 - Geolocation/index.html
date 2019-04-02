@@ -14,6 +14,11 @@
     <span class="units">KM/H</span>
   </h1>
 
+  <h1 class="info">
+    <span class="city">x</span>,
+    &nbsp;<span class="country">y</span>
+  </h>
+
   <style>
     html {
       font-size: 100px;
@@ -59,6 +64,41 @@
     /*Compass: https://thenounproject.com/search/?q=compass&i=592352*/
   </style>
   <script>
+    const arrow = document.querySelector('.arrow');
+    const speed = document.querySelector('.speed-value');
+    const city = document.querySelector('.city');
+    const country = document.querySelector('.country');
+
+    let latitute, longitude;
+
+    navigator.geolocation.watchPosition((data) => {
+      if(data.coords.speed != null){
+        speed.textContent = data.coords.speed;
+      }
+      arrow.style.transform = `rotate(${data.coords.heading}deg)`;
+    }, (err) => {
+      console.err(err);
+      alert('Hey! You gotta allow that to happen!')
+    });
+
+    navigator.geolocation.getCurrentPosition((data) => {
+      latitute = data.coords.latitude;
+      longitude = data.coords.longitude;
+      getAddress(latitute, longitude);
+    });
+
+    getAddress = async (latitude, longitude) => {
+        const API_KEY = '64f2b2c832834223a24a33b5f9c92342';
+        const api_call = await fetch(`https://api.opencagedata.com/geocode/v1/json?key=${API_KEY}&q=${latitude},${longitude}&pretty=1&no_annotations=1`);
+        const data = await api_call.json();
+
+        const cityVal = data.results[0].components.city;
+        const countryVal = data.results[0].components.country;
+        city.textContent = cityVal;
+        country.textContent = countryVal;
+    };
+
+
   </script>
 </body>
 </html>
