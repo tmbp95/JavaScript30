@@ -36,7 +36,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 18 Adding Up Times with Reduce `30/03/2019`
 - [x] 19 Webcam Fun `31/03/2019`
 - [x] 20 Speech Detection `01/04/2019`
-- [ ] 21 Geolocation
+- [x] 21 Geolocation `02/04/2019`
 - [ ] 22 Follow Along Link Highlighter
 - [ ] 23 Speech Synthesis
 - [ ] 24 Sticky Nav
