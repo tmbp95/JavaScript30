@@ -37,7 +37,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 19 Webcam Fun `31/03/2019`
 - [x] 20 Speech Detection `01/04/2019`
 - [x] 21 Geolocation `02/04/2019`
-- [ ] 22 Follow Along Link Highlighter
+- [x] 22 Follow Along Link Highlighter `03/04/2019`
 - [ ] 23 Speech Synthesis
 - [ ] 24 Sticky Nav
 - [ ] 25 Event Capture, Propagation, Bubbling and Once
