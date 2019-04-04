@@ -38,7 +38,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 20 Speech Detection `01/04/2019`
 - [x] 21 Geolocation `02/04/2019`
 - [x] 22 Follow Along Link Highlighter `03/04/2019`
-- [ ] 23 Speech Synthesis
+- [x] 23 Speech Synthesis `04/04/2019`
 - [ ] 24 Sticky Nav
 - [ ] 25 Event Capture, Propagation, Bubbling and Once
 - [ ] 26 Stripe Follow Along Nav
