@@ -40,7 +40,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 22 Follow Along Link Highlighter `03/04/2019`
 - [x] 23 Speech Synthesis `04/04/2019`
 - [x] 24 Sticky Nav `05/04/2019`
-- [ ] 25 Event Capture, Propagation, Bubbling and Once
+- [x] 25 Event Capture, Propagation, Bubbling and Once `06/04/2019`
 - [ ] 26 Stripe Follow Along Nav
 - [ ] 27 Click and Drag
 - [ ] 28 Video Speed Controller

@@ -39,9 +39,28 @@
     background: coral;
   }
 </style>
-
 <button></button>
 <script>
+  const divs = document.querySelectorAll('div');
+  const button = document.querySelector('button');
+
+  function logText(e){
+    console.log(this.classList.value);
+    // e.stopPropagation(); // stop bubbling!
+  }
+
+  divs.forEach(div => div.addEventListener('click', logText, {
+    // capture: true,  // run the function on the way down (one, two, three)
+       capture: false, // default (three, two, one)
+    // once: false     // default always run
+       once: true      // only runs once
+  }));
+
+  button.addEventListener('click', () => {
+    console.log('CLICK!!!!');
+  }, {
+    once: true
+  });
 
 </script>
 </body>
