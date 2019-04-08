@@ -42,7 +42,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 24 Sticky Nav `05/04/2019`
 - [x] 25 Event Capture, Propagation, Bubbling and Once `06/04/2019`
 - [x] 26 Stripe Follow Along Nav `07/04/2019`
-- [ ] 27 Click and Drag
+- [x] 27 Click and Drag `08/04/2019`
 - [ ] 28 Video Speed Controller
 - [ ] 29 Countdown Timer
 - [ ] 30 Whack A Mole
