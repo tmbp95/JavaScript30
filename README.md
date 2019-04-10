@@ -44,5 +44,5 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 26 Stripe Follow Along Nav `07/04/2019`
 - [x] 27 Click and Drag `08/04/2019`
 - [x] 28 Video Speed Controller `09/04/2019`
-- [ ] 29 Countdown Timer
+- [x] 29 Countdown Timer `10/04/2019`
 - [ ] 30 Whack A Mole
