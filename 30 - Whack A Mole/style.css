@@ -21,6 +21,30 @@ h1 {
   margin-bottom: 0;
 }
 
+button {
+  background-color: rgba(255, 255, 255, 0.521);
+  border: none;
+  border-radius: 100px;
+  padding: 1rem 5rem;
+  text-align: center;
+  box-shadow: 0 1rem 5rem rgba(1,1,1,0.25);
+  text-transform: uppercase;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: rgba(255, 255, 255, 0.904);
+
+}
+
+.gameBox{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .score {
   background: rgba(255,255,255,0.2);
   padding: 0 3rem;

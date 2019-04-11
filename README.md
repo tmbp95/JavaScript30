@@ -45,4 +45,4 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - [x] 27 Click and Drag `08/04/2019`
 - [x] 28 Video Speed Controller `09/04/2019`
 - [x] 29 Countdown Timer `10/04/2019`
-- [ ] 30 Whack A Mole
+- [x] 30 Whack A Mole `11/04/2019`
